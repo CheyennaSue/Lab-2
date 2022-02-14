@@ -1,1 +1,1 @@
-
+I changed the format a little. I moved the body up to where I am used to it being there. I also changed the script so that all you need to do is put a number into the button area. That was a little easier for me.
